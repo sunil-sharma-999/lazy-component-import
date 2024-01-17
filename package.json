@@ -1,6 +1,6 @@
 {
   "name": "lazy-component-import",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "handle chunk load error on new deployment",
   "main": "dist/index.js",
   "scripts": {
