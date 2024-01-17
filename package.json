@@ -1,5 +1,5 @@
 {
-  "name": "lazy-import-helper",
+  "name": "lazy-component-import",
   "version": "1.0.0",
   "description": "handle chunk load error on new deployment",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunil-sharma-999/lazy-import-helper.git"
+    "url": "git+https://github.com/sunil-sharma-999/lazy-component-import.git"
   },
   "keywords": [
     "javascript",
@@ -22,9 +22,9 @@
   "author": "sunil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sunil-sharma-999/lazy-import-helper/issues"
+    "url": "https://github.com/sunil-sharma-999/lazy-component-import/issues"
   },
-  "homepage": "https://github.com/sunil-sharma-999/lazy-import-helper#readme",
+  "homepage": "https://github.com/sunil-sharma-999/lazy-component-import#readme",
   "devDependencies": {
     "@rollup/plugin-json": "^6.1.0",
     "rollup": "^4.9.5"

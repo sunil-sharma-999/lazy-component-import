@@ -1,2 +1,3 @@
-# lazy-import-helper
+# lazy-component-import
+
 handle chunk load error on new deployment
